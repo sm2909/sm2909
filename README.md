@@ -3,7 +3,7 @@
 <p align="center">
   🎓 B.Tech in Computer Science & Engineering @ IIT Tirupati<br>
   🌱 Currently exploring Software Engineering, Competitive coding, Data Structures and Algorithms<br>
-  💻 Interested in learning cool and interesting concepts in Science and Engineering
+  💻 Interested in learning cool concepts in Science and Engineering
 </p>
 
 ---
