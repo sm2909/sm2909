@@ -1,24 +1,9 @@
 <!-- ===== PROFILE HEADER ===== -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sm2909&style=flat-square&color=blue" alt="Profile Views"/>
-</p>
 <h1 align="center">Hi there, I'm Sarang Mittal! 👋</h1>
 <p align="center">
   🎓 B.Tech in Computer Science & Engineering @ IIT Tirupati<br>
   🌱 Currently exploring Software Engineering, Competitive coding, Data Structures and Algorithms<br>
   💻 Interested in learning cool and interesting concepts in Science and Engineering
-</p>
-
----
-
-<!-- ===== QUICK STATS ===== -->
-<p align="center">
-  <a href="https://github.com/sm2909?tab=followers">
-    <img src="https://img.shields.io/github/followers/sm2909?label=Followers&style=flat-square" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/sm2909">
-    <img src="https://img.shields.io/github/repo-size/sm2909/Portfolio?style=flat-square" alt="Repo Size"/>
-  </a>
 </p>
 
 ---
